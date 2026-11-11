@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rujirapron Thaimai.
-#คติประจำใจ
+# คติประจำใจ
 Dream big, hard doing
 
 <div align="center">
