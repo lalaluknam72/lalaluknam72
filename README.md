@@ -4,7 +4,7 @@ Dream big, hard doing
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=Computer+Science+%26+UX/UI+Design+Student;AI+%2F+GeoAI+%2F+Remote+Sensing+Researcher;+Developer+%26+LLM+Architect)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=Computer+Science+%26+UX/UI+Design+Student;)
 
 <br/>
 
@@ -20,6 +20,7 @@ Dream big, hard doing
 ## 🚀 About Me
 
 * 🎓 **Role:** Computer Science Student
+* 🤩 **Interested** UX/UI Design
 
 ---
 
