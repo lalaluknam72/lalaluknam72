@@ -76,7 +76,7 @@ interests: UX/UI Design
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote" />
 
 </div>
 
@@ -88,7 +88,7 @@ interests: UX/UI Design
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=58A6FF&bar_color_cover=false)](https://open.spotify.com/)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31ro7wzse4jsdtibnwvwncczl5j4&redirect&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=58A6FF&bar_color_cover=false)](https://open.spotify.com/)
 
 </div>
 
