@@ -30,72 +30,13 @@
 name: Rujirapron Thaimai
 nickname: Luknam
 role: Computer Science Student
-interests:
-  - UX/UI Design
-  - Software Development
-  - Artificial Intelligence
-  - Creative Problem Solving
-currently_learning:
-  - Programming
-  - Web Development
-  - UI/UX Design
-motto: "Dream big. Work hard. Keep creating."
+interests: UX/UI Design
 ```
 
 - 🎓 I'm studying **Computer Science**.
 - 🎨 I enjoy exploring the world of **UX/UI Design**.
-- 💻 I love learning how technology works and building things with it.
-- 🤖 I'm curious about **Artificial Intelligence** and its possibilities.
 - 🌱 Currently learning, experimenting, and discovering new things.
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode" />
-</p>
-
-### 🎨 Design & Creativity
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
----
-
-<!-- ===================== PROJECTS ===================== -->
-
-## 🚀 Featured Projects
-
-A little collection of things I've been building and exploring.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌱 AI Rubber Plantation Management
-
-An AI-powered application concept for helping rubber farmers manage plantations, analyze costs, and explore intelligent agricultural tools.
-
-**Focus:** AI · Software Development · UX/UI
-
-</td>
-<td width="50%">
-
-### 💡 More Coming Soon!
-
-Every project is an opportunity to learn something new, solve a problem, and turn an idea into reality.
-
-**Focus:** Learning · Experimenting · Creating
-
-</td>
-</tr>
-</table>
+- 🎬 In my free time, I enjoy watching movies.
 
 ---
 
@@ -112,18 +53,6 @@ Every project is an opportunity to learn something new, solve a problem, and tur
 <br/><br/>
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=lalaluknam72&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-
-## 📈 My Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lalaluknam72&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
